@@ -1,0 +1,28 @@
+{
+  "contacts" : [
+    {
+      "id" : 1,
+      "name" : "Petr",
+      "email" : "Petr@mail.ru",
+      "phone_number" : "+79957770106"
+    },
+    {
+      "id" : 2,
+      "name" : "Ivan",
+      "email" : "Ivan@mail.ru",
+      "phone_number" : "+79997780309"
+    },
+    {
+      "id" : 3,
+      "name" : "Elena",
+      "email" : "Elena@mail.ru",
+      "phone_number" : "+79970006535"
+    },
+    {
+      "id" : 4,
+      "name" : "Nikolay",
+      "email" : "Nikolay@mail.ru",
+      "phone_number" : "+79971116535"
+    }
+  ]
+}
