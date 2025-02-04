@@ -23,6 +23,12 @@
       "name" : "Nikolay",
       "email" : "Nikolay@mail.ru",
       "phone_number" : "+79971116535"
+    },
+    {
+      "id" : 5,
+      "name" : "Igor",
+      "email" : "Igor@mail.ru",
+      "phone_number" : "+79771116535"
     }
   ]
 }

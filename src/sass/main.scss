@@ -4,6 +4,7 @@ $height : 20px;
 * {
   margin: 0;
   padding: 0;
+  //background-color: #f17483;
 }
 table {
   width: 100vw;
@@ -11,9 +12,11 @@ table {
   min-height: 200px;
   border: 1px solid black;
   text-align: center;
+  background-color: black;
+  color: white;
 }
 td {
-  border: 1px solid black;
+  border: 1px solid white;
   text-align: center;
 }
 
