@@ -15,8 +15,8 @@
     "webpack-dev-server": "^5.2.0"
   },
   "scripts" : {
-	  "build" : "webpack serve --env development",
-	  "start" : "webpack --env production",
+	  "build" : "webpack --env production",
+	  "start" : "webpack serve --env development",
       "database" : "npx json-server database.json --watch"
   },
   "husky": {
